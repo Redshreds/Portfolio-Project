@@ -173,3 +173,6 @@ input[type=text] {
   border-style: solid;
   border-color: #dddddd;
 }
+.bio-links {
+  float: right;
+}
